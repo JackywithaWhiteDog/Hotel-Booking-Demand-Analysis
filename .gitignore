@@ -1,3 +1,9 @@
+# Package
+*.egg-info
+
+# Cache
+__pycache__/
+
 # MAC
 .DS_Store
 
