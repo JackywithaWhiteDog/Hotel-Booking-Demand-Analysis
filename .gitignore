@@ -1,0 +1,18 @@
+# MAC
+.DS_Store
+
+# Jupyter lab
+.ipynb_checkpoints/
+
+# VScode
+.vscode/
+
+# pyenv
+.python-version
+
+# Log file
+*.log
+
+# Dataset
+data
+*.csv

@@ -1,0 +1,4 @@
+https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/project/train.csv
+https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/project/train_label.csv
+https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/project/test.csv
+https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/project/test_nolabel.csv
