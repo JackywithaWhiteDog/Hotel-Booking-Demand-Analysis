@@ -1,7 +1,5 @@
 # HTML Final Project
 
-[TOC]
-
 ## Guide
 
 ### Setup
