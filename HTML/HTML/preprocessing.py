@@ -11,7 +11,7 @@ def fill_na(df):
 
 def preprocessing(df):
     # The only invalid NA is in 'children' column
-    return fill_na(drop_na_data(df, 'children')).resetindex(drop=True)
+    return fill_na(drop_na_data(df, 'children')).reset_index(drop=True)
 
 # x_train = pd.read_csv(Config.train_path)
 # df1 = drop_na_data(x_train, 'children')
