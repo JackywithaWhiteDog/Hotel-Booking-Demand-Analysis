@@ -13,4 +13,7 @@
   python -m pip install --no-cache-dir -e HTML                || \
   python3 -m pip install --no-cache-dir -e HTML )
 
+mkdir data
+mkdir outputs
+
 wget -c -i dataset.txt -P ./data
