@@ -13,6 +13,8 @@
   python -m pip install --no-cache-dir -e HTML                || \
   python3 -m pip install --no-cache-dir -e HTML )
 
+nbstripout --install --attributes .gitattributes
+
 mkdir data
 mkdir outputs
 
