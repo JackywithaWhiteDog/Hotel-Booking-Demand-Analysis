@@ -1,4 +1,6 @@
-# HTML Final Project
+# Hotel Booking Demand Analysis
+
+This is the final projcet of Machine Learning Techniques, Prof. Hsuan-Tien Lin in NTU. ([link](https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/project/))
 
 ## Guide
 
